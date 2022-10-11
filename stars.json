@@ -1,19 +1,19 @@
 [
   {
     "full_name": "google/eng-practices",
-    "stargazers_count": 18804,
+    "stargazers_count": 18811,
     "open_issues_count": 10,
     "forks_count": 1831
   },
   {
     "full_name": "cloudflare/workerd",
-    "stargazers_count": 3701,
-    "open_issues_count": 25,
-    "forks_count": 87
+    "stargazers_count": 3811,
+    "open_issues_count": 30,
+    "forks_count": 93
   },
   {
     "full_name": "WalshyDev/workerd-example",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 19831,
-    "open_issues_count": 27,
-    "forks_count": 1113
+    "stargazers_count": 19869,
+    "open_issues_count": 30,
+    "forks_count": 1115
   },
   {
     "full_name": "ironmonk88/monks-enhanced-journal",
@@ -38,13 +38,13 @@
   {
     "full_name": "ironmonk88/monks-little-details",
     "stargazers_count": 22,
-    "open_issues_count": 30,
+    "open_issues_count": 32,
     "forks_count": 21
   },
   {
     "full_name": "ironmonk88/monks-tokenbar",
     "stargazers_count": 31,
-    "open_issues_count": 93,
+    "open_issues_count": 94,
     "forks_count": 26
   },
   {
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "microsoft/fluentui-emoji",
-    "stargazers_count": 6063,
-    "open_issues_count": 41,
+    "stargazers_count": 6095,
+    "open_issues_count": 39,
     "forks_count": 306
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 33482,
+    "stargazers_count": 33519,
     "open_issues_count": 319,
-    "forks_count": 915
+    "forks_count": 916
   },
   {
     "full_name": "nickmccurdy/project-migration",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 34712,
-    "open_issues_count": 387,
-    "forks_count": 805
+    "stargazers_count": 34789,
+    "open_issues_count": 381,
+    "forks_count": 811
   },
   {
     "full_name": "youarerad/youareradweb",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 7707,
+    "stargazers_count": 7837,
     "open_issues_count": 13,
-    "forks_count": 311
+    "forks_count": 318
   },
   {
     "full_name": "kwhitley/itty-durable",
@@ -104,32 +104,32 @@
   {
     "full_name": "MrPrimate/ddb-importer",
     "stargazers_count": 125,
-    "open_issues_count": 29,
+    "open_issues_count": 28,
     "forks_count": 48
   },
   {
     "full_name": "jlalmes/trpc-openapi",
-    "stargazers_count": 440,
+    "stargazers_count": 447,
     "open_issues_count": 15,
     "forks_count": 13
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 39380,
-    "open_issues_count": 860,
-    "forks_count": 3274
+    "stargazers_count": 39404,
+    "open_issues_count": 847,
+    "forks_count": 3280
   },
   {
     "full_name": "cheeriojs/cheerio",
-    "stargazers_count": 25534,
-    "open_issues_count": 20,
-    "forks_count": 1568
+    "stargazers_count": 25531,
+    "open_issues_count": 19,
+    "forks_count": 1567
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 22363,
-    "open_issues_count": 26,
-    "forks_count": 666
+    "stargazers_count": 22475,
+    "open_issues_count": 20,
+    "forks_count": 670
   },
   {
     "full_name": "JacobMGEvans/JacobMGEvans",
@@ -145,26 +145,26 @@
   },
   {
     "full_name": "cloudflare/wrangler-action",
-    "stargazers_count": 599,
-    "open_issues_count": 44,
-    "forks_count": 93
+    "stargazers_count": 602,
+    "open_issues_count": 45,
+    "forks_count": 94
   },
   {
     "full_name": "enso-org/enso",
-    "stargazers_count": 5733,
-    "open_issues_count": 31,
+    "stargazers_count": 5734,
+    "open_issues_count": 24,
     "forks_count": 212
   },
   {
     "full_name": "TheoBr/yerba",
-    "stargazers_count": 276,
+    "stargazers_count": 279,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "cloudflare/lol-html",
-    "stargazers_count": 920,
-    "open_issues_count": 36,
+    "stargazers_count": 924,
+    "open_issues_count": 37,
     "forks_count": 46
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "rstacruz/cheatsheets",
-    "stargazers_count": 12173,
-    "open_issues_count": 782,
-    "forks_count": 3310
+    "stargazers_count": 12177,
+    "open_issues_count": 784,
+    "forks_count": 3318
   }
 ]
