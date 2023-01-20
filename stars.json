@@ -7,7 +7,7 @@
   },
   {
     "full_name": "scorbettUM/hedra",
-    "stargazers_count": 6,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "open-sauced/insights",
-    "stargazers_count": 88,
-    "open_issues_count": 88,
+    "stargazers_count": 89,
+    "open_issues_count": 89,
     "forks_count": 10
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 1486,
+    "stargazers_count": 1514,
     "open_issues_count": 11,
-    "forks_count": 97
+    "forks_count": 98
   },
   {
     "full_name": "cloudflare/workers-web-experiments",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 17141,
-    "open_issues_count": 142,
-    "forks_count": 586
+    "stargazers_count": 17446,
+    "open_issues_count": 143,
+    "forks_count": 591
   },
   {
     "full_name": "google/eng-practices",
-    "stargazers_count": 19011,
+    "stargazers_count": 19020,
     "open_issues_count": 10,
-    "forks_count": 1849
+    "forks_count": 1851
   },
   {
     "full_name": "cloudflare/workerd",
-    "stargazers_count": 4264,
-    "open_issues_count": 34,
-    "forks_count": 124
+    "stargazers_count": 4277,
+    "open_issues_count": 40,
+    "forks_count": 126
   },
   {
     "full_name": "WalshyDev/workerd-example",
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 21013,
-    "open_issues_count": 46,
-    "forks_count": 1190
+    "stargazers_count": 21054,
+    "open_issues_count": 47,
+    "forks_count": 1194
   },
   {
     "full_name": "ironmonk88/monks-enhanced-journal",
     "stargazers_count": 32,
-    "open_issues_count": 117,
+    "open_issues_count": 121,
     "forks_count": 28
   },
   {
@@ -86,7 +86,7 @@
   {
     "full_name": "ironmonk88/monks-tokenbar",
     "stargazers_count": 34,
-    "open_issues_count": 108,
+    "open_issues_count": 109,
     "forks_count": 28
   },
   {
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "microsoft/fluentui-emoji",
-    "stargazers_count": 6818,
+    "stargazers_count": 6827,
     "open_issues_count": 46,
-    "forks_count": 361
+    "forks_count": 363
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 34337,
-    "open_issues_count": 264,
-    "forks_count": 952
+    "stargazers_count": 34367,
+    "open_issues_count": 268,
+    "forks_count": 953
   },
   {
     "full_name": "nickmccurdy/project-migration",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 37850,
-    "open_issues_count": 486,
-    "forks_count": 920
+    "stargazers_count": 38052,
+    "open_issues_count": 490,
+    "forks_count": 922
   },
   {
     "full_name": "youarerad/youareradweb",
@@ -133,45 +133,45 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 13244,
-    "open_issues_count": 32,
-    "forks_count": 541
+    "stargazers_count": 13390,
+    "open_issues_count": 36,
+    "forks_count": 547
   },
   {
     "full_name": "kwhitley/itty-durable",
-    "stargazers_count": 159,
+    "stargazers_count": 160,
     "open_issues_count": 16,
     "forks_count": 16
   },
   {
     "full_name": "MrPrimate/ddb-importer",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 27,
-    "forks_count": 53
+    "forks_count": 55
   },
   {
     "full_name": "jlalmes/trpc-openapi",
-    "stargazers_count": 882,
+    "stargazers_count": 900,
     "open_issues_count": 14,
     "forks_count": 29
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 40109,
-    "open_issues_count": 864,
-    "forks_count": 3344
+    "stargazers_count": 40127,
+    "open_issues_count": 865,
+    "forks_count": 3348
   },
   {
     "full_name": "cheeriojs/cheerio",
-    "stargazers_count": 25853,
+    "stargazers_count": 25855,
     "open_issues_count": 12,
     "forks_count": 1576
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 26019,
+    "stargazers_count": 26162,
     "open_issues_count": 15,
-    "forks_count": 785
+    "forks_count": 795
   },
   {
     "full_name": "JacobMGEvans/JacobMGEvans",
