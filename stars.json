@@ -19,39 +19,39 @@
   },
   {
     "full_name": "open-sauced/insights",
-    "stargazers_count": 90,
-    "open_issues_count": 91,
+    "stargazers_count": 91,
+    "open_issues_count": 94,
     "forks_count": 11
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 1877,
-    "open_issues_count": 12,
-    "forks_count": 118
+    "stargazers_count": 1902,
+    "open_issues_count": 15,
+    "forks_count": 122
   },
   {
     "full_name": "cloudflare/workers-web-experiments",
     "stargazers_count": 133,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 21
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 18131,
-    "open_issues_count": 142,
-    "forks_count": 610
+    "stargazers_count": 18278,
+    "open_issues_count": 149,
+    "forks_count": 612
   },
   {
     "full_name": "google/eng-practices",
-    "stargazers_count": 19050,
+    "stargazers_count": 19056,
     "open_issues_count": 10,
     "forks_count": 1855
   },
   {
     "full_name": "cloudflare/workerd",
-    "stargazers_count": 4360,
+    "stargazers_count": 4375,
     "open_issues_count": 50,
-    "forks_count": 132
+    "forks_count": 133
   },
   {
     "full_name": "WalshyDev/workerd-example",
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 21184,
-    "open_issues_count": 46,
-    "forks_count": 1207
+    "stargazers_count": 21238,
+    "open_issues_count": 48,
+    "forks_count": 1212
   },
   {
     "full_name": "ironmonk88/monks-enhanced-journal",
     "stargazers_count": 32,
-    "open_issues_count": 137,
+    "open_issues_count": 139,
     "forks_count": 29
   },
   {
@@ -86,7 +86,7 @@
   {
     "full_name": "ironmonk88/monks-tokenbar",
     "stargazers_count": 34,
-    "open_issues_count": 111,
+    "open_issues_count": 112,
     "forks_count": 28
   },
   {
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "microsoft/fluentui-emoji",
-    "stargazers_count": 6987,
+    "stargazers_count": 7005,
     "open_issues_count": 46,
-    "forks_count": 374
+    "forks_count": 375
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 34495,
-    "open_issues_count": 270,
-    "forks_count": 961
+    "stargazers_count": 34527,
+    "open_issues_count": 275,
+    "forks_count": 963
   },
   {
     "full_name": "nickmccurdy/project-migration",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 38495,
-    "open_issues_count": 506,
-    "forks_count": 946
+    "stargazers_count": 38611,
+    "open_issues_count": 515,
+    "forks_count": 951
   },
   {
     "full_name": "youarerad/youareradweb",
@@ -133,45 +133,45 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 14005,
+    "stargazers_count": 14125,
     "open_issues_count": 41,
-    "forks_count": 571
+    "forks_count": 584
   },
   {
     "full_name": "kwhitley/itty-durable",
-    "stargazers_count": 160,
+    "stargazers_count": 161,
     "open_issues_count": 16,
     "forks_count": 16
   },
   {
     "full_name": "MrPrimate/ddb-importer",
     "stargazers_count": 138,
-    "open_issues_count": 29,
-    "forks_count": 55
+    "open_issues_count": 30,
+    "forks_count": 56
   },
   {
     "full_name": "jlalmes/trpc-openapi",
-    "stargazers_count": 953,
-    "open_issues_count": 17,
-    "forks_count": 33
+    "stargazers_count": 972,
+    "open_issues_count": 18,
+    "forks_count": 35
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 40219,
-    "open_issues_count": 875,
-    "forks_count": 3359
+    "stargazers_count": 40238,
+    "open_issues_count": 876,
+    "forks_count": 3363
   },
   {
     "full_name": "cheeriojs/cheerio",
-    "stargazers_count": 25895,
+    "stargazers_count": 25909,
     "open_issues_count": 12,
     "forks_count": 1575
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 26674,
-    "open_issues_count": 20,
-    "forks_count": 812
+    "stargazers_count": 26933,
+    "open_issues_count": 21,
+    "forks_count": 819
   },
   {
     "full_name": "JacobMGEvans/JacobMGEvans",
