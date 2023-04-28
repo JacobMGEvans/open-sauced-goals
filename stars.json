@@ -1,31 +1,37 @@
 [
   {
+    "full_name": "t3-oss/t3-env",
+    "stargazers_count": 284,
+    "open_issues_count": 9,
+    "forks_count": 7
+  },
+  {
     "full_name": "pingdotgg/markerthing",
-    "stargazers_count": 95,
+    "stargazers_count": 100,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 20
   },
   {
     "full_name": "sdras/js-explorer",
-    "stargazers_count": 296,
+    "stargazers_count": 297,
     "open_issues_count": 6,
     "forks_count": 23
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 4387,
-    "open_issues_count": 115,
-    "forks_count": 101
+    "stargazers_count": 4680,
+    "open_issues_count": 121,
+    "forks_count": 105
   },
   {
     "full_name": "aidenwallis/kysely-d1",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 3,
     "forks_count": 5
   },
   {
     "full_name": "adamelmore/good-repo",
-    "stargazers_count": 1377,
+    "stargazers_count": 1375,
     "open_issues_count": 3,
     "forks_count": 4
   },
@@ -43,44 +49,44 @@
   },
   {
     "full_name": "mrbbot/slshx",
-    "stargazers_count": 184,
+    "stargazers_count": 185,
     "open_issues_count": 9,
     "forks_count": 7
   },
   {
     "full_name": "open-sauced/insights",
-    "stargazers_count": 110,
-    "open_issues_count": 87,
+    "stargazers_count": 112,
+    "open_issues_count": 82,
     "forks_count": 26
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 2509,
-    "open_issues_count": 26,
-    "forks_count": 185
+    "stargazers_count": 2534,
+    "open_issues_count": 22,
+    "forks_count": 190
   },
   {
     "full_name": "cloudflare/workers-web-experiments",
-    "stargazers_count": 151,
+    "stargazers_count": 153,
     "open_issues_count": 2,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 21420,
-    "open_issues_count": 228,
-    "forks_count": 740
+    "stargazers_count": 21535,
+    "open_issues_count": 234,
+    "forks_count": 744
   },
   {
     "full_name": "google/eng-practices",
-    "stargazers_count": 19214,
+    "stargazers_count": 19221,
     "open_issues_count": 10,
-    "forks_count": 1871
+    "forks_count": 1870
   },
   {
     "full_name": "cloudflare/workerd",
-    "stargazers_count": 4598,
-    "open_issues_count": 78,
+    "stargazers_count": 4603,
+    "open_issues_count": 76,
     "forks_count": 159
   },
   {
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 22279,
-    "open_issues_count": 60,
-    "forks_count": 1283
+    "stargazers_count": 22334,
+    "open_issues_count": 56,
+    "forks_count": 1287
   },
   {
     "full_name": "ironmonk88/monks-enhanced-journal",
@@ -133,14 +139,14 @@
   },
   {
     "full_name": "microsoft/fluentui-emoji",
-    "stargazers_count": 7595,
+    "stargazers_count": 7608,
     "open_issues_count": 52,
-    "forks_count": 419
+    "forks_count": 417
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 35177,
-    "open_issues_count": 311,
+    "stargazers_count": 35193,
+    "open_issues_count": 315,
     "forks_count": 1004
   },
   {
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 40776,
-    "open_issues_count": 699,
-    "forks_count": 1065
+    "stargazers_count": 40831,
+    "open_issues_count": 712,
+    "forks_count": 1069
   },
   {
     "full_name": "youarerad/youareradweb",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 16817,
-    "open_issues_count": 39,
-    "forks_count": 741
+    "stargazers_count": 16962,
+    "open_issues_count": 38,
+    "forks_count": 743
   },
   {
     "full_name": "kwhitley/itty-durable",
-    "stargazers_count": 175,
+    "stargazers_count": 176,
     "open_issues_count": 16,
     "forks_count": 17
-  },
-  {
-    "full_name": "MrPrimate/ddb-importer",
-    "stargazers_count": 147,
-    "open_issues_count": 36,
-    "forks_count": 58
   }
 ]
