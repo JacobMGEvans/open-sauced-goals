@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "vercel/next.js",
+    "stargazers_count": 105310,
+    "open_issues_count": 1834,
+    "forks_count": 23732
+  },
+  {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 284,
-    "open_issues_count": 9,
-    "forks_count": 7
+    "stargazers_count": 928,
+    "open_issues_count": 10,
+    "forks_count": 21
   },
   {
     "full_name": "pingdotgg/markerthing",
-    "stargazers_count": 100,
+    "stargazers_count": 103,
     "open_issues_count": 0,
     "forks_count": 20
   },
@@ -19,20 +25,20 @@
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 4680,
-    "open_issues_count": 121,
+    "stargazers_count": 4876,
+    "open_issues_count": 127,
     "forks_count": 105
   },
   {
     "full_name": "aidenwallis/kysely-d1",
-    "stargazers_count": 123,
+    "stargazers_count": 124,
     "open_issues_count": 3,
     "forks_count": 5
   },
   {
     "full_name": "adamelmore/good-repo",
-    "stargazers_count": 1375,
-    "open_issues_count": 3,
+    "stargazers_count": 1374,
+    "open_issues_count": 4,
     "forks_count": 4
   },
   {
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "open-sauced/insights",
-    "stargazers_count": 112,
-    "open_issues_count": 82,
-    "forks_count": 26
+    "stargazers_count": 113,
+    "open_issues_count": 85,
+    "forks_count": 28
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 2534,
-    "open_issues_count": 22,
-    "forks_count": 190
+    "stargazers_count": 2564,
+    "open_issues_count": 24,
+    "forks_count": 193
   },
   {
     "full_name": "cloudflare/workers-web-experiments",
@@ -73,20 +79,20 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 21535,
-    "open_issues_count": 234,
-    "forks_count": 744
+    "stargazers_count": 21632,
+    "open_issues_count": 240,
+    "forks_count": 749
   },
   {
     "full_name": "google/eng-practices",
-    "stargazers_count": 19221,
+    "stargazers_count": 19222,
     "open_issues_count": 10,
-    "forks_count": 1870
+    "forks_count": 1871
   },
   {
     "full_name": "cloudflare/workerd",
-    "stargazers_count": 4603,
-    "open_issues_count": 76,
+    "stargazers_count": 4607,
+    "open_issues_count": 74,
     "forks_count": 159
   },
   {
@@ -103,14 +109,14 @@
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 22334,
+    "stargazers_count": 22360,
     "open_issues_count": 56,
-    "forks_count": 1287
+    "forks_count": 1289
   },
   {
     "full_name": "ironmonk88/monks-enhanced-journal",
     "stargazers_count": 35,
-    "open_issues_count": 177,
+    "open_issues_count": 178,
     "forks_count": 33
   },
   {
@@ -122,7 +128,7 @@
   {
     "full_name": "ironmonk88/monks-tokenbar",
     "stargazers_count": 36,
-    "open_issues_count": 115,
+    "open_issues_count": 110,
     "forks_count": 28
   },
   {
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "microsoft/fluentui-emoji",
-    "stargazers_count": 7608,
+    "stargazers_count": 7624,
     "open_issues_count": 52,
-    "forks_count": 417
+    "forks_count": 418
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 35193,
-    "open_issues_count": 315,
-    "forks_count": 1004
+    "stargazers_count": 35214,
+    "open_issues_count": 319,
+    "forks_count": 1005
   },
   {
     "full_name": "nickmccurdy/project-migration",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 40831,
-    "open_issues_count": 712,
-    "forks_count": 1069
+    "stargazers_count": 40909,
+    "open_issues_count": 711,
+    "forks_count": 1072
   },
   {
     "full_name": "youarerad/youareradweb",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 16962,
-    "open_issues_count": 38,
-    "forks_count": 743
-  },
-  {
-    "full_name": "kwhitley/itty-durable",
-    "stargazers_count": 176,
-    "open_issues_count": 16,
-    "forks_count": 17
+    "stargazers_count": 17090,
+    "open_issues_count": 39,
+    "forks_count": 744
   }
 ]
