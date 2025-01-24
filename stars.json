@@ -1,15 +1,15 @@
 [
   {
     "full_name": "aidenybai/react-scan",
-    "stargazers_count": 12377,
-    "open_issues_count": 74,
-    "forks_count": 161
+    "stargazers_count": 12700,
+    "open_issues_count": 72,
+    "forks_count": 165
   },
   {
     "full_name": "mastra-ai/mastra",
-    "stargazers_count": 1301,
-    "open_issues_count": 6,
-    "forks_count": 50
+    "stargazers_count": 1333,
+    "open_issues_count": 7,
+    "forks_count": 52
   },
   {
     "full_name": "JacobMGEvans/dig-everything",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "mswjs/source",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 8,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "GoogleChromeLabs/squoosh",
-    "stargazers_count": 22342,
+    "stargazers_count": 22360,
     "open_issues_count": 227,
     "forks_count": 1585
   },
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "ethanniser/next-typesafe-url",
-    "stargazers_count": 411,
-    "open_issues_count": 13,
+    "stargazers_count": 413,
+    "open_issues_count": 14,
     "forks_count": 20
   },
   {
     "full_name": "itsMapleLeaf/reacord",
     "stargazers_count": 755,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 13
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 5106,
-    "open_issues_count": 466,
+    "stargazers_count": 5109,
+    "open_issues_count": 469,
     "forks_count": 1487
   },
   {
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "pingdotgg/uploadthing",
-    "stargazers_count": 4418,
-    "open_issues_count": 34,
-    "forks_count": 327
+    "stargazers_count": 4424,
+    "open_issues_count": 36,
+    "forks_count": 326
   },
   {
     "full_name": "pingdotgg/zact",
@@ -103,19 +103,19 @@
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 128689,
-    "open_issues_count": 3562,
-    "forks_count": 27443
+    "stargazers_count": 128763,
+    "open_issues_count": 3536,
+    "forks_count": 27469
   },
   {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 2925,
-    "open_issues_count": 58,
-    "forks_count": 92
+    "stargazers_count": 2933,
+    "open_issues_count": 59,
+    "forks_count": 94
   },
   {
     "full_name": "pingdotgg/markerthing",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 3,
     "forks_count": 23
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 25790,
-    "open_issues_count": 1262,
-    "forks_count": 737
+    "stargazers_count": 25832,
+    "open_issues_count": 1258,
+    "forks_count": 742
   },
   {
     "full_name": "aidenwallis/kysely-d1",
@@ -165,13 +165,13 @@
     "full_name": "open-sauced/app",
     "stargazers_count": 437,
     "open_issues_count": 327,
-    "forks_count": 234
+    "forks_count": 232
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 4944,
+    "stargazers_count": 4956,
     "open_issues_count": 51,
-    "forks_count": 424
+    "forks_count": 426
   },
   {
     "full_name": "cloudflare/workers-web-experiments",
