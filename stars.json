@@ -1,39 +1,39 @@
 [
   {
-    "full_name": "jackjackbits/bitchat",
-    "stargazers_count": 3488,
-    "open_issues_count": 6,
-    "forks_count": 244
+    "full_name": "permissionlesstech/bitchat",
+    "stargazers_count": 14749,
+    "open_issues_count": 104,
+    "forks_count": 1244
   },
   {
     "full_name": "aidenybai/bippy",
-    "stargazers_count": 918,
+    "stargazers_count": 920,
     "open_issues_count": 2,
-    "forks_count": 24
+    "forks_count": 23
   },
   {
     "full_name": "openai/codex",
-    "stargazers_count": 30544,
-    "open_issues_count": 544,
-    "forks_count": 3495
+    "stargazers_count": 30722,
+    "open_issues_count": 557,
+    "forks_count": 3524
   },
   {
     "full_name": "sam-goodwin/alchemy",
-    "stargazers_count": 665,
-    "open_issues_count": 101,
+    "stargazers_count": 671,
+    "open_issues_count": 116,
     "forks_count": 49
   },
   {
     "full_name": "aidenybai/react-scan",
-    "stargazers_count": 18827,
+    "stargazers_count": 18858,
     "open_issues_count": 114,
-    "forks_count": 310
+    "forks_count": 309
   },
   {
     "full_name": "mastra-ai/mastra",
-    "stargazers_count": 14790,
-    "open_issues_count": 272,
-    "forks_count": 903
+    "stargazers_count": 14890,
+    "open_issues_count": 268,
+    "forks_count": 914
   },
   {
     "full_name": "JacobMGEvans/dig-everything",
@@ -44,24 +44,24 @@
   {
     "full_name": "cloudflare/partykit",
     "stargazers_count": 729,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 35
   },
   {
     "full_name": "mswjs/source",
-    "stargazers_count": 170,
+    "stargazers_count": 172,
     "open_issues_count": 11,
     "forks_count": 8
   },
   {
     "full_name": "GoogleChromeLabs/squoosh",
-    "stargazers_count": 23234,
-    "open_issues_count": 232,
-    "forks_count": 1689
+    "stargazers_count": 23256,
+    "open_issues_count": 233,
+    "forks_count": 1694
   },
   {
     "full_name": "JacobMGEvans/stripe-with-webhooks-and-metadata",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "ethanniser/next-typesafe-url",
-    "stargazers_count": 454,
-    "open_issues_count": 5,
-    "forks_count": 25
+    "stargazers_count": 459,
+    "open_issues_count": 6,
+    "forks_count": 26
   },
   {
     "full_name": "itsMapleLeaf/reacord",
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 5370,
+    "stargazers_count": 5374,
     "open_issues_count": 502,
     "forks_count": 1581
   },
   {
     "full_name": "cloudflare/chatgpt-plugin",
-    "stargazers_count": 288,
+    "stargazers_count": 289,
     "open_issues_count": 10,
     "forks_count": 22
   },
   {
     "full_name": "pingdotgg/uploadthing",
-    "stargazers_count": 4812,
+    "stargazers_count": 4816,
     "open_issues_count": 40,
-    "forks_count": 381
+    "forks_count": 383
   },
   {
     "full_name": "pingdotgg/zact",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 132986,
-    "open_issues_count": 3243,
-    "forks_count": 28762
+    "stargazers_count": 133054,
+    "open_issues_count": 3246,
+    "forks_count": 28794
   },
   {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 3376,
+    "stargazers_count": 3383,
     "open_issues_count": 30,
     "forks_count": 104
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 29096,
-    "open_issues_count": 1608,
-    "forks_count": 925
+    "stargazers_count": 29159,
+    "open_issues_count": 1616,
+    "forks_count": 928
   },
   {
     "full_name": "aidenwallis/kysely-d1",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "adamdotdevin/good-repo",
-    "stargazers_count": 1283,
+    "stargazers_count": 1282,
     "open_issues_count": 5,
     "forks_count": 3
   },
